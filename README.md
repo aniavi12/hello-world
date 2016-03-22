@@ -1,2 +1,5 @@
 # hello-world
-My First Repository in GitHub 
+Hi All,
+
+Avijit here,I love coding and always try to learn new things.
+I believe only practice and hardwork make a man perfect.
